@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.aa421065.css",
-    "main.js": "/portfolio/static/js/main.4dba8660.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/my-cv.pdf": "/portfolio/static/media/my-cv.8b271d899e734ba6abda.pdf",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/wikigame.png": "/portfolio/static/media/wikigame.d852ffbd4ccf771ddf5c.png",
-    "static/media/train_reservation.png": "/portfolio/static/media/train_reservation.3fb7265f726fc63b971b.png",
-    "static/media/token_generator.png": "/portfolio/static/media/token_generator.c13b36018f3f79a4bb3c.png",
-    "static/media/blogger.png": "/portfolio/static/media/blogger.153ea8be5d4c0177463f.png",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/product.png": "/portfolio/static/media/product.c8d92fb65ca21f026cdc.png",
-    "static/media/logo.png": "/portfolio/static/media/logo.4e58b8bfe9110a6e50cb.png",
-    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/portfolio/index.html",
-    "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
-    "main.4dba8660.js.map": "/portfolio/static/js/main.4dba8660.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.8608b559.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/my-cv.pdf": "/static/media/my-cv.8b271d899e734ba6abda.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/wikigame.png": "/static/media/wikigame.d852ffbd4ccf771ddf5c.png",
+    "static/media/train_reservation.png": "/static/media/train_reservation.3fb7265f726fc63b971b.png",
+    "static/media/token_generator.png": "/static/media/token_generator.c13b36018f3f79a4bb3c.png",
+    "static/media/blogger.png": "/static/media/blogger.153ea8be5d4c0177463f.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/product.png": "/static/media/product.c8d92fb65ca21f026cdc.png",
+    "static/media/logo.png": "/static/media/logo.4e58b8bfe9110a6e50cb.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.8608b559.js.map": "/static/js/main.8608b559.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa421065.css",
-    "static/js/main.4dba8660.js"
+    "static/css/main.29bc8131.css",
+    "static/js/main.8608b559.js"
   ]
 }
