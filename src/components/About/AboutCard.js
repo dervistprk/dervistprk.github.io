@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Herkese selamlar, ben <span className="purple">Derviş TOPRAK </span><br/>
-            Junior fullstack web geliştiriciyim.
+            Mid seviye fullstack web geliştiriciyim.
             <br />
             <br />
             Kodlamadan başka yapmaktan zevk aldığım aktivitiler
